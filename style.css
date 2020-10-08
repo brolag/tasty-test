@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 80px;
+}
+
+h1 {
+  color: lightblue;
+  letter-spacing: 2px;
+}
+
+p {
+  color: lightgoldenrodyellow;
+  font-size: 16px;
+}
